@@ -34,7 +34,6 @@ End the program
     x, y = solution
     x = int(x) if x.is_integer() else x
     y = int(y) if y.is_integer() else y
-
     print(f"[{x}.  {y}.]")
 
 
